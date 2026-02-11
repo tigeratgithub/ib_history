@@ -205,3 +205,16 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+截图.png
+.vscode/settings.json
+data/ib_history.sqlite
+data/roll_schedule.csv
+reports/fetch_6m_mnq_mgc_3m_15m.json
+reports/fetch_7d_mnq_mgc_3m_15m.json
+reports/fetch_mgc_20250811_20250827.json
+reports/fetch_mgc_20250828_20251029.json
+reports/fetch_mgc_20251030_20251229.json
+reports/fetch_mgc_20251230_20260210.json
+reports/fetch_mnq_20250811_20250919.json
+reports/fetch_mnq_20250920_20251219.json
+reports/fetch_mnq_20251220_20260210.json
